@@ -1,0 +1,21 @@
+RoomNumber,Capacity,RoomType,BasePrice
+101,1,Single Room,100
+102,1,Single Room,100
+103,1,Single Room,100
+104,1,Single Room,100
+105,1,Single Room,100
+106,1,Single Room,100
+107,1,Single Room,100
+108,1,Single Room,100
+109,1,Single Room,100
+110,1,Single Room,100
+111,2,Double Room,150
+112,2,Double Room,150
+113,2,Double Room,150
+114,2,Double Room,150
+115,2,Double Room,150
+116,2,Double Room,150
+117,2,Double Room,150
+118,3,Family Room,200
+119,3,Family Room,200
+120,4,Suite,250
